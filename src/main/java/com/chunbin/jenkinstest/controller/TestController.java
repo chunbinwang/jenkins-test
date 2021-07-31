@@ -13,6 +13,6 @@ public class TestController {
 
     @GetMapping("/qryUser")
     public String qryUser(){
-        return "chunbin";
+        return "chunbin123";
     }
 }
